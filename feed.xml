@@ -8,7 +8,7 @@
 </description>
 <author></author>
 category domain="tradingview:symbol">JSE:SAP:</category>
-<category domain="tradingview:market">forex</category>
+<category domain="tradingview:market">stock</category>
 <category domain="tradingview:country"/>
 <category domain="tradingview:language">en</category>
 <category domain="tradingview:urgency">1</category>
