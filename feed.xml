@@ -8,7 +8,7 @@
 </description>
 </item>
  <item>
-<title>Testfeednews</title> 
+<title>Testfeednews press_release</title> 
 <guid>0002</guid>
 <pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
 <description> Testfeed test news
@@ -18,7 +18,7 @@
 <category domain="tradingview:section">press_release</category>
 </item>
 <item>
-<title>Testfeednews</title> 
+<title>Testfeednewsinsider_trading</title> 
 <guid>0003</guid>
 <pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
 <description> Testfeed test news
@@ -28,7 +28,7 @@
 <category domain="tradingview:section">insider_trading</category>  
 </item>
 <item>
-<title>Testfeednews</title> 
+<title>Testfeednews esg</title> 
 <guid>0004</guid>
 <pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
 <description> Testfeed test news
@@ -38,7 +38,7 @@
 <category domain="tradingview:section">esg</category>  
 </item>
 <item>
-<title>Testfeednews</title> 
+<title>Testfeednews recommendation</title> 
 <guid>0004</guid>
 <pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
 <description> Testfeed test news
