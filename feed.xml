@@ -39,12 +39,12 @@
 </item>
 <item>
 <title>Testfeednews recommendation</title> 
-<guid>0004</guid>
+<guid>0005</guid>
 <pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
 <description> Testfeed test news recommendation
 </description>
 <category domain="tradingview:symbol">SIMULATED:HOLIDAY</category>
- <category domain="tradingview:market">stock</category> 
+<category domain="tradingview:market">stock</category> 
 <category domain="tradingview:section">recommendation</category>  
 </item>    
 </channel>
