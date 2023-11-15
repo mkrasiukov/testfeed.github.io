@@ -7,5 +7,45 @@
 <description> Testfeed test news
 </description>
 </item>
+ <item>
+<title>Testfeednews</title> 
+<guid>0002</guid>
+<pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
+<description> Testfeed test news
+</description>
+<category domain="tradingview:symbol">SIMULATED:HOLIDAY</category>
+<category domain="tradingview:market">stock</category>   
+<category domain="tradingview:section">press_release</category>
+</item>
+<item>
+<title>Testfeednews</title> 
+<guid>0003</guid>
+<pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
+<description> Testfeed test news
+</description>
+<category domain="tradingview:symbol">SIMULATED:HOLIDAY</category>
+<category domain="tradingview:market">stock</category>  
+<category domain="tradingview:section">insider_trading</category>  
+</item>
+<item>
+<title>Testfeednews</title> 
+<guid>0004</guid>
+<pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
+<description> Testfeed test news
+</description>
+<category domain="tradingview:symbol">SIMULATED:HOLIDAY</category>
+<category domain="tradingview:market">stock</category> 
+<category domain="tradingview:section">esg</category>  
+</item>
+<item>
+<title>Testfeednews</title> 
+<guid>0004</guid>
+<pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
+<description> Testfeed test news
+</description>
+<category domain="tradingview:symbol">SIMULATED:HOLIDAY</category>
+ <category domain="tradingview:market">stock</category> 
+<category domain="tradingview:section">recommendation</category>  
+</item>    
 </channel>
 </rss>
