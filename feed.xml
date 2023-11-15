@@ -11,7 +11,7 @@
 <title>Testfeednews press_release</title> 
 <guid>0002</guid>
 <pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
-<description> Testfeed test news
+<description> Testfeed test news press_release
 </description>
 <category domain="tradingview:symbol">SIMULATED:HOLIDAY</category>
 <category domain="tradingview:market">stock</category>   
@@ -21,7 +21,7 @@
 <title>Testfeednewsinsider_trading</title> 
 <guid>0003</guid>
 <pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
-<description> Testfeed test news
+<description> Testfeed test news stock
 </description>
 <category domain="tradingview:symbol">SIMULATED:HOLIDAY</category>
 <category domain="tradingview:market">stock</category>  
@@ -31,7 +31,7 @@
 <title>Testfeednews esg</title> 
 <guid>0004</guid>
 <pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
-<description> Testfeed test news
+<description> Testfeed test news esg
 </description>
 <category domain="tradingview:symbol">SIMULATED:HOLIDAY</category>
 <category domain="tradingview:market">stock</category> 
@@ -41,7 +41,7 @@
 <title>Testfeednews recommendation</title> 
 <guid>0004</guid>
 <pubDate>Wed, 15 Nov 2023 13:01:56 +0000</pubDate>
-<description> Testfeed test news
+<description> Testfeed test news recommendation
 </description>
 <category domain="tradingview:symbol">SIMULATED:HOLIDAY</category>
  <category domain="tradingview:market">stock</category> 
