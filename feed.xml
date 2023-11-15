@@ -1,1 +1,131 @@
-RSS
+<rss version="2.0">
+<channel>
+<title>Testfeednews</title>
+<item>
+<guid>0009350020231018060</guid>
+<pubDate>ed, 18 Oct 2023 18:46:56 +0900</pubDate>
+<description> Testfeed test news
+</description>
+<author></author>
+category domain="tradingview:symbol">JSE:SAP:</category>
+<category domain="tradingview:market">forex</category>
+<category domain="tradingview:country"/>
+<category domain="tradingview:language">en</category>
+<category domain="tradingview:urgency">1</category>
+<category domain="tradingview:pubStatus">stat:withheld</category>
+</item>
+</channel>
+<channel>
+<title>Testfeednews</title>
+<item>
+<guid>0009350020231018060</guid>
+<pubDate>ed, 18 Oct 2023 18:46:56 +0900</pubDate>
+<description> Testfeed test news
+</description>
+<author></author>
+category domain="tradingview:symbol">JSE:SAP:</category>
+<category domain="tradingview:market">forex</category>
+<category domain="tradingview:country"/>
+<category domain="tradingview:language">en</category>
+<category domain="tradingview:urgency">1</category>
+<category domain="tradingview:pubStatus">stat:withheld</category>
+</item>
+</channel>
+  <channel>
+<title>Testfeednews</title>
+<item>
+<guid>0009350020231018060</guid>
+<pubDate>ed, 18 Oct 2023 18:46:56 +0900</pubDate>
+<description> Testfeed test news
+</description>
+<author></author>
+category domain="tradingview:symbol">JSE:SAP:</category>
+<category domain="tradingview:market">forex</category>
+<category domain="tradingview:country"/>
+<category domain="tradingview:language">en</category>
+<category domain="tradingview:urgency">1</category>
+<category domain="tradingview:pubStatus">stat:withheld</category>
+</item>
+</channel>
+  <channel>
+<title>Testfeednews</title>
+<item>
+<guid>0009350020231018060</guid>
+<pubDate>ed, 18 Oct 2023 18:46:56 +0900</pubDate>
+<description> Testfeed test news
+</description>
+<author></author>
+category domain="tradingview:symbol">JSE:SAP:</category>
+<category domain="tradingview:market">forex</category>
+<category domain="tradingview:country"/>
+<category domain="tradingview:language">en</category>
+<category domain="tradingview:urgency">1</category>
+<category domain="tradingview:pubStatus">stat:withheld</category>
+</item>
+</channel>
+  <channel>
+<title>Testfeednews</title>
+<item>
+<guid>0009350020231018060</guid>
+<title>...</title>
+<pubDate>ed, 18 Oct 2023 18:46:56 +0900</pubDate>
+<description> Testfeed test news
+</description>
+<author></author>
+category domain="tradingview:symbol">JSE:SAP:</category>
+<category domain="tradingview:market">forex</category>
+<category domain="tradingview:country"/>
+<category domain="tradingview:language">en</category>
+<category domain="tradingview:urgency">1</category>
+<category domain="tradingview:pubStatus">stat:withheld</category>
+</item>
+</channel>
+  <channel>
+<title>Testfeednews</title>
+<item>
+<guid>0009350020231018060</guid>
+<pubDate>ed, 18 Oct 2023 18:46:56 +0900</pubDate>
+<description> Testfeed test news
+</description>
+<author></author>
+<category domain="tradingview:symbol">JSE:SAP:</category>
+<category domain="tradingview:market">forex</category>
+<category domain="tradingview:country"/>
+<category domain="tradingview:language">en</category>
+<category domain="tradingview:urgency">1</category>
+<category domain="tradingview:pubStatus">stat:withheld</category>
+</item>
+</channel>
+  <channel>
+<title>Testfeednews</title>
+<item>
+<guid>0009350020231018060</guid>
+<pubDate>ed, 18 Oct 2023 18:46:56 +0900</pubDate>
+<description> Testfeed test news
+</description>
+<author></author>
+category domain="tradingview:symbol">JSE:SAP:</category>
+<category domain="tradingview:market">forex</category>
+<category domain="tradingview:country"/>
+<category domain="tradingview:language">en</category>
+<category domain="tradingview:urgency">1</category>
+<category domain="tradingview:pubStatus">stat:withheld</category>
+</item>
+</channel>
+  <channel>
+<title>Testfeednews</title>
+<item>
+<guid>0009350020231018060</guid>
+<pubDate>ed, 18 Oct 2023 18:46:56 +0900</pubDate>
+<description> Testfeed test news
+</description>
+<author></author>
+<category domain="tradingview:symbol">JSE:SAP:</category>
+<category domain="tradingview:market">forex</category>
+<category domain="tradingview:country"/>
+<category domain="tradingview:language">en</category>
+<category domain="tradingview:urgency">1</category>
+<category domain="tradingview:pubStatus">stat:withheld</category>
+</item>
+</channel>
+</rss>
