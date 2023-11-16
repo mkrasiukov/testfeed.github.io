@@ -1,6 +1,6 @@
 <rss version="2.0">
 <channel>
- <item>
+<item>
 <title>Testfeednews press_release 1</title> 
 <guid>0002</guid>
 <pubDate>Wed, 15 Nov 2023 13:15:56 +0000</pubDate>
@@ -40,6 +40,7 @@
 <category domain="tradingview:market">stock</category> 
 <category domain="tradingview:section">recommendation</category>  
 </item>
+<item> 
 <title>Testfeednews press_release 2</title> 
 <guid>0002</guid>
 <pubDate>Wed, 15 Nov 2023 13:15:56 +0000</pubDate>
