@@ -13,7 +13,7 @@
 <pubDate>Wed, 15 Nov 2023 13:12:56 +0000</pubDate>
 <description> Testfeed test news press_release
 </description>
-<category domain="tradingview:symbol">SIMULATED:HOLIDAY</category>
+<category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
 <category domain="tradingview:market">stock</category>   
 <category domain="tradingview:section">press_release</category>
 </item>
