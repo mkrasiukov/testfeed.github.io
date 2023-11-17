@@ -3,7 +3,7 @@
 <item>
 <title>Testfeednews press_release 1</title> 
 <guid>0002</guid>
-<pubDate>Wed, 15 Nov 2023 13:15:56 +0000</pubDate>
+<pubDate>Wed, 16 Nov 2023 13:15:56 +0000</pubDate>
 <description> Testfeed test news press_release 1111
 </description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
@@ -13,7 +13,7 @@
 <item>
 <title>Testfeednewsinsider_trading 1</title> 
 <guid>0003</guid>
-<pubDate>Wed, 15 Nov 2023 13:15:56 +0000</pubDate>
+<pubDate>Wed, 16 Nov 2023 13:15:56 +0000</pubDate>
 <description> Testfeed test news stock 1111
 </description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
@@ -23,7 +23,7 @@
 <item>
 <title>Testfeednews esg 1</title> 
 <guid>0004</guid>
-<pubDate>Wed, 15 Nov 2023 13:15:56 +0000</pubDate>
+<pubDate>Wed, 16 Nov 2023 13:15:56 +0000</pubDate>
 <description> Testfeed test news esg 1111
 </description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
@@ -33,7 +33,7 @@
 <item>
 <title>Testfeednews recommendation 1</title> 
 <guid>0005</guid>
-<pubDate>Wed, 15 Nov 2023 13:16:56 +0000</pubDate>
+<pubDate>Wed, 16 Nov 2023 13:16:56 +0000</pubDate>
 <description> Testfeed test news recommendation 1111
 </description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
@@ -43,7 +43,7 @@
 <item> 
 <title>Testfeednews press_release 2</title> 
 <guid>0102</guid>
-<pubDate>Wed, 15 Nov 2023 13:15:56 +0000</pubDate>
+<pubDate>Wed, 16 Nov 2023 13:15:56 +0000</pubDate>
 <description> Testfeed test news press_release 2222
 </description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
@@ -53,7 +53,7 @@
 <item>
 <title>Testfeednewsinsider_trading 2</title> 
 <guid>1003</guid>
-<pubDate>Wed, 15 Nov 2023 13:15:56 +0000</pubDate>
+<pubDate>Wed, 16 Nov 2023 13:15:56 +0000</pubDate>
 <description> Testfeed test news stock 2222
 </description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
@@ -63,7 +63,7 @@
 <item>
 <title>Testfeednews esg 2</title> 
 <guid>0104</guid>
-<pubDate>Wed, 15 Nov 2023 13:15:56 +0000</pubDate>
+<pubDate>Wed, 16 Nov 2023 13:15:56 +0000</pubDate>
 <description> Testfeed test news esg 2222
 </description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
@@ -73,7 +73,7 @@
 <item>
 <title>Testfeednews recommendation 2</title> 
 <guid>0105</guid>
-<pubDate>Wed, 15 Nov 2023 13:16:56 +0000</pubDate>
+<pubDate>Wed, 16 Nov 2023 13:16:56 +0000</pubDate>
 <description> Testfeed test news recommendation 2222
 </description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
@@ -83,7 +83,7 @@
  <item> 
 <title>Testfeednews press_release 3</title> 
 <guid>2002</guid>
-<pubDate>Wed, 15 Nov 2023 13:16:56 +0000</pubDate>
+<pubDate>Wed, 16 Nov 2023 13:16:56 +0000</pubDate>
 <description> Testfeed test news press_release 3333
 </description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
@@ -93,7 +93,7 @@
 <item>
 <title>Testfeednewsinsider_trading 3</title> 
 <guid>0203</guid>
-<pubDate>Wed, 15 Nov 2023 13:15:56 +0000</pubDate>
+<pubDate>Wed, 16 Nov 2023 13:15:56 +0000</pubDate>
 <description> Testfeed test news stock 3333
 </description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
@@ -103,7 +103,7 @@
 <item>
 <title>Testfeednews esg 3</title> 
 <guid>0204</guid>
-<pubDate>Wed, 15 Nov 2023 13:15:56 +0000</pubDate>
+<pubDate>Wed, 16 Nov 2023 13:15:56 +0000</pubDate>
 <description> Testfeed test news esg 3333
 </description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
@@ -113,7 +113,7 @@
 <item>
 <title>Testfeednews recommendation 3</title> 
 <guid>0205</guid>
-<pubDate>Wed, 15 Nov 2023 13:16:56 +0000</pubDate>
+<pubDate>Wed, 16 Nov 2023 13:16:56 +0000</pubDate>
 <description> Testfeed test news recommendation 3333
 </description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
