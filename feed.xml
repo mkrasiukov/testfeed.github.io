@@ -119,6 +119,24 @@
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
 <category domain="tradingview:market">stock</category> 
 <category domain="tradingview:section">recommendation</category>  
-</item>     
+</item>
+<item>
+<title>Sec News about ALLIANCE RESOURCE PARTNERS LP</title>
+<description>
+<![CDATA[ <p>Shareholder Kathleen Mowry, a 10% owner of Alliance Resource Partners LP, has reported a sale of 34,492 Common Units. The total sale amount was $691,571, with each share sold at a price of $20.0502. Following the transaction, Kathleen Mowry now directly owns 16,167,865 Common Units of Alliance Resource Partners LP.</p> ]]>
+</description>
+<guid isPermaLink="false">2146bef7f07098a0dbc2f4dc840f00ce61eb30d249383e7837e6f091f699114b</guid>
+<category domain="tradingview:symbol">NASDAQ:ARLP</category>
+<pubDate>Fri, 08 Dec 2023 15:00:27 +0000</pubDate>
+</item>
+<item>
+<title>Sec News about Priority Technology Holdings, Inc.</title>
+<description>
+<![CDATA[ <p>Priority Technology Holdings, Inc.'s Chief Strategy Officer, Kiewiet Sean, has reported a sale of 10,000 shares of Common Stock. The total sale amount was $30,600. Following the transaction, Kiewiet Sean now directly owns 1,391,853 shares of Common Stock in Priority Technology Holdings, Inc.</p> ]]>
+</description>
+<guid isPermaLink="false">99790850c55c86a49a1da1dcfcbed854747505de0dc436ff416ee9ba21ddc92c</guid>
+<category domain="tradingview:symbol">NASDAQ:PRTH</category>
+<pubDate>Fri, 08 Dec 2023 15:00:27 +0000</pubDate>
+</item> 
 </channel>
 </rss>
