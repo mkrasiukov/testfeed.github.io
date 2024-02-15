@@ -9,7 +9,7 @@
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
 <category domain="tradingview:market">stock</category>   
 <category domain="tradingview:section">press_release</category>
-<category domain="tradingview:section">news</category> 
+<category domain="tradingview:section">sec_news</category> 
 </item>
 <item>
 <title>Testfeednewsinsider_trading 1</title> 
